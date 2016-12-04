@@ -1,0 +1,32 @@
+{
+  "name": "incito-axios",
+  "version": "1.0.0",
+  "description": "Incito integration for axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurpreetatwal/incito-axios.git"
+  },
+  "author": "Gurpreet Atwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gurpreetatwal/incito-axios/issues"
+  },
+  "homepage": "https://github.com/gurpreetatwal/incito-axios#readme",
+  "keywords": [
+    "incito",
+    "axios",
+    "supertest",
+    "integration",
+    "testing"
+  ],
+  "dependencies": {
+    "incito": "^1.0.0"
+  },
+  "peerDependencies": {
+    "axios": "^0.15.3"
+  }
+}
